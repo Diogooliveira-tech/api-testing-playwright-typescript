@@ -1,0 +1,13 @@
+node_modules/
+
+playwright-report/
+test-results/
+
+.env
+.env.*
+
+allure-results/
+allure-report/
+
+.DS_Store
+Thumbs.db
